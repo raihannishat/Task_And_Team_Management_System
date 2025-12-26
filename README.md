@@ -1,5 +1,12 @@
 # Task and Team Management System API
 
+## Note on Contributors
+
+During a company coding assessment, this repository was initially committed using a provided laptop that had another GitHub account logged in.  
+All code, architecture, and implementation in this repository were done solely by me (Raihan Nishat).
+
+Subsequent commits and ownership belong entirely to my personal GitHub account.
+
 A comprehensive Task and Team Management System API built with .NET 8, CQRS pattern, and Vertical Slice Architecture.
 
 ## Screenshots
